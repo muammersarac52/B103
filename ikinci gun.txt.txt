@@ -1,1 +1,2 @@
 git gitup ikinci gun ilk deneme
+git gitup ikinci gun ikinci deneme
