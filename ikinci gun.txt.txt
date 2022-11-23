@@ -4,3 +4,4 @@ git gitup ikinci gun ucuncu deneme
 git gitup ikinci gun erol branci deneme
 git gitup ikinci gun master branci deneme
 git gitup ikinci gun erol branci ikinci deneme
+git gitup ikinci gun erol branci ilk deneme
